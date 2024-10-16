@@ -1,4 +1,4 @@
-# myFirstMajorGame
+# game: PREOBRAZBA
 school project (maturitetna seminarska naloga)
 
 in the executable folder there is an exe file
