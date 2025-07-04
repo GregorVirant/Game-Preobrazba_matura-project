@@ -6,6 +6,10 @@ The game is made with Python and Pygame without a GameEngine and all the texture
 In this 2d platformer game the player can turn into multiple different objects like a sword or a spiky 
 ball that can climb the walls. The goal for the player is to reach the finish.
 
+![image](https://github.com/user-attachments/assets/551adce9-0f77-4dd0-981d-be0a64295da7)
+![Uploading image.png…]()
+
+
 Early plans:
 
 ![image](https://github.com/user-attachments/assets/b3d7074f-c9ea-4e95-8978-0556909a20f5)
