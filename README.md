@@ -7,8 +7,7 @@ In this 2d platformer game the player can turn into multiple different objects l
 ball that can climb the walls. The goal for the player is to reach the finish.
 
 ![image](https://github.com/user-attachments/assets/551adce9-0f77-4dd0-981d-be0a64295da7)
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/3d1559f9-1920-4c00-aa68-14f40e319a2f)
 
 Early plans:
 
