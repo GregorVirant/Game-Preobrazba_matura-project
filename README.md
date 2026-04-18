@@ -1,5 +1,5 @@
 # Preobrazba
-This is a game a made for my "matura" project
+This is a game a made for my "matura" projecta
 
 The game is made with Python and Pygame without a GameEngine and all the textures are crated by me.
 
